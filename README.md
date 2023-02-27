@@ -1,6 +1,6 @@
 # ID Developmental Blog
 
-## What I learnt:
+## What I learnt through the weeks:
 
 ### Week 1
 
@@ -131,3 +131,48 @@ _API_
 
 - AJAX is used for loading data into part of a page without having to refresh the entire page
 - User does not have to wait for the entire page to load if only a portion of the page is being updated
+- Browser can request some data from a server and once that data has been requested while being able to continue loading the rest of the page
+- API is able to give a reply with a structured response instead of simply reading a webpage like a human does
+- POSTMAN is a tool that makes API development faster, easier and better
+- POSTMAN is also an intuitive user interface to send requests, save responses, add tests, and create workflows
+- fetch() method starts the process of fetching a resource from a server
+
+### Week 9
+
+_Bootstrap_
+
+- Makes responsive development easier
+- No need to build CSS from scratch since Bootstrap provides a collection of syntax for template designs
+
+### Week 12
+
+_NoSQL_
+
+- A mechanism for storage and retrieval of unstructured data
+- Has no specific query language, no or very few relationships but has data stored in the format of collections and documents
+- Works better for large, unstructured datasets
+
+_RestDB_
+
+- Online NoSQL database
+- POSTMAN can be used for testing
+
+### Week 13
+
+_Best Practises_
+
+- Commit messages need to tell readers what was done or changed. They should be meaningful instead of having messages like "final update"
+- Files need to be organised and have proper naming conventions. For example, all images/pictures should be grouped together into a folder called "img"
+
+### Week 14
+
+_Lottie Animation_
+
+- JSON-based animation file format
+- Perform animations and allow additional interactivity
+- Lottie file is significantly smaller than a PNG file or GIF, making the download speed a lot faster
+- Free LottieFIles or ready SVG resources can be used to save time since you do not need to create one from scratch
+- In order to insert a LottieFile into HTML, you need to copy and paste the generated code of a design from the Lottie website
+- JS will be used to determine when you want the animation to be played
+- How to convert SVG to Lottie
+- How to modify Lottie animations using Lottie editor
